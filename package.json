@@ -1,0 +1,9 @@
+{
+  "name": "blackspire-website",
+  "version": "6.1.0",
+  "private": true,
+  "description": "Blackspire website with a small server that saves enquiries to Excel",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "exceljs": "^4.4.0" }
+}
